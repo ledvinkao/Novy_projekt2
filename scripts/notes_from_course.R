@@ -9,3 +9,6 @@ usethis::use_git()
 usethis::use_github()
 
 # přidávám komentář, aby s to projevilo v historii na GitHubu xxxxx
+
+usethis::pr_init("water_year")
+
