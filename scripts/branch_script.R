@@ -1,0 +1,1 @@
+## tohle je skript pro paralelni realitu
